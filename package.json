@@ -1,0 +1,26 @@
+{
+  "name": "generate-eth-address-end-6868",
+  "version": "1.0.0",
+  "description": "generate eth address end with 6868",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tnm0113/generate-eth-address-end-6868.git"
+  },
+  "keywords": [
+    "eth",
+    "autogen"
+  ],
+  "author": "tnm0113",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tnm0113/generate-eth-address-end-6868/issues"
+  },
+  "homepage": "https://github.com/tnm0113/generate-eth-address-end-6868#readme",
+  "dependencies": {
+    "generate-nice-eth-address": "^1.0.0"
+  }
+}
