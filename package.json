@@ -1,6 +1,6 @@
 {
   "name": "generate-eth-address-end-6868",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "generate eth address end with 6868",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tnm0113/generate-eth-address-end-6868.git"
+    "url": "https://github.com/tnm0113/generate-eth-address-end-6868.git"
   },
   "keywords": [
     "eth",
